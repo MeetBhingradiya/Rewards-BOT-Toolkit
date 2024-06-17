@@ -8,7 +8,7 @@
 > + This Extension is `still working` but your account might be `banned` or `restricted` or gets `cooldown` by Microsoft Rewards Program for using this extension.
 > + we are not promoting any kind of `cheating` in Microsoft Rewards Program this is only for our educational purpose to test our skills on chromium extension development.
 > + we are `not responsible` for any damage or loss of your account. `use as your own risk.`
-> + This is not made from Scratch, this is a fork of [ABS Extension](https://github.com/henleygarcia?tab=repositories) with some Advanced Modifications.
+> + This is not made from Scratch, this is a fork of [ABS Extension]([https://github.com/henleygarcia?tab=repositories](https://github.com/henleygarcia/Automated-Bing-Searches)) with some Advanced Modifications.
 > + Some Features are Enabled in this Extension that are available in ABS Extension. (One Click Activities)
 
 ## Latest Version
