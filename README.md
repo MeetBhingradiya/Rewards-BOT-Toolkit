@@ -1,7 +1,6 @@
 # Rewards BOT - Toolkit
 
 + Automate Searching on [Microsoft Bing Rewards](https://rewards.bing.com) Program.
-+ Still Working without any Maintenance (Last Updated 19-4-24)
 
 > ## Notice
 >
