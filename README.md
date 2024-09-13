@@ -55,7 +55,7 @@ Example Link : `https://teamsmapis.vercel.app/Download/?key=<YOUR_LICENSE_KEY>`
 * Contect on Discord for Sales & Support
 [Join](https://discord.gg/8psdck8c2X) included with SM Network Membership 
 
-Note : * - 150 INR is for Indian Users Only, Webhook will be sent to your Email Address for Verification of IP Address. (TOR, VPN, Proxy, Cloudflare, even VPS also not allowed)
+Note : * 150 INR is for Indian Users Only, Webhook will be sent to your Email Address or Tickets for Verification of IP Address. (TOR, VPN, Proxy, Cloudflare, even VPS also not allowed)
 
 ## Copyright
 2022 - 2024 © [SM Netowrk](https://teamsm.vercel.app/Apps/NewTab) | not affiliated with Microsoft Corporation
